@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Languages and Tools
+<img align="left" alt="React" width="26px" src="https://img.icons8.com/office/16/000000/react.png" />
+
 <!--
 **joshua-richardson-88/joshua-richardson-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
