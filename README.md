@@ -11,12 +11,12 @@
 
 ### Languages and Tools
 #### Frontend
-<img align="left" alt="React" width="26px" src="https://img.icons8.com/office/30/000000/react.png" /> React
-<img align="left" alt="React Native" width="26px" src="https://img.icons8.com/nolan/64/react-native.png" /> React-Native
-<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" /> HTML
-<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" /> CSS
-<img align="left" alt="JS" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" /> Javascript
-<img align="left" alt="Material-Ui" width="26px" src="https://img.icons8.com/color/48/000000/material-ui.png" /> Material-ui
+<img align="left" alt="React" width="26px" src="https://img.icons8.com/office/30/000000/react.png" /> 
+<img align="left" alt="React Native" width="26px" src="https://img.icons8.com/nolan/64/react-native.png" /> 
+<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" /> 
+<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img align="left" alt="JS" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" /> 
+<img align="left" alt="Material-Ui" width="26px" src="https://img.icons8.com/color/48/000000/material-ui.png" /> 
 <br />
 
 #### Backend
