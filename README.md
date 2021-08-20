@@ -1,7 +1,7 @@
 ### Greetings and Salutations!
 
 ### I'm a Web Developer, Husband, and Dungeon Master
-- You can find my projects here [portfolio]
+- You can find my projects [here|portfolio]
 - 🔭 I'm currently working on my first app release
 - 🌱 I'm currently learning Typescript
 - 👯 I'm looking to collaborate on React and React-Native
