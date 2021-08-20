@@ -30,4 +30,6 @@
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />
 <br />
 
+<img align="left" alt="Josh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-richardson-88" />
+
 [portfolio]: https://portfolio.cursedtale.com
