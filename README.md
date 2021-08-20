@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ### Languages and Tools
+
 #### Frontend
+
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/office/30/000000/react.png" />
 <img align="left" alt="React Native" width="26px" src="https://img.icons8.com/nolan/64/react-native.png" />
 <img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
@@ -10,6 +12,7 @@
 <img align="left" alt="Material-Ui" width="26px" src="https://img.icons8.com/color/48/000000/material-ui.png" />
 
 #### Backend
+
 <img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 express
 <img align="left" alt="Apollo" width="26px" src="https://img.icons8.com/color/48/000000/apollo.png" />
@@ -17,6 +20,7 @@ express
 
 
 #### Database
+
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />
 
