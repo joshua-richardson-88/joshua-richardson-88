@@ -1,7 +1,7 @@
 ### Greetings and Salutations!
 
 ### I'm a Web Developer, Husband, and Dungeon Master
-- You can find my projects [here|portfolio]
+- You can find my projects [here](https://porfolio.cursedtale.com)
 - 🔭 I'm currently working on my first app release
 - 🌱 I'm currently learning Typescript
 - 👯 I'm looking to collaborate on React and React-Native
@@ -34,4 +34,3 @@
 
 <img align="left" alt="Josh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-richardson-88" />
 
-[portfolio]: https://portfolio.cursedtale.com
