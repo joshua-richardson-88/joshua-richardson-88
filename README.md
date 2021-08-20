@@ -29,3 +29,5 @@
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />
 <br />
+
+[portfolio]: https://portfolio.cursedtale.com
